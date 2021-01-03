@@ -10,7 +10,7 @@ Hi, My name is Vikum Semage! Currently, I am a grade 8 student proficient in pyt
 - 3D modelling with blender
 - Video editing
 
-**Contact Me:**
+**Contact Me**
 
 please don't
 
