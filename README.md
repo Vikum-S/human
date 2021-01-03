@@ -4,6 +4,7 @@
 
 Hi, My name is Vikum Semage! Currently, I am a grade 8 student proficient in python and dipping my feet into web development and machine learning/AI.
 
+
 **Skills**
 
 - Python
